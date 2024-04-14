@@ -1,0 +1,46 @@
+﻿D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Anomaly.cpp
+D:\repos\Project1\Fitness Classification\Anomaly.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Canny_Filter.cpp
+D:\repos\Project1\Fitness Classification\Canny_Filter.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Channels.cpp
+D:\repos\Project1\Fitness Classification\Channels.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  DCT_Transform.cpp
+D:\repos\Project1\Fitness Classification\DCT_Transform.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Different_Images.cpp
+D:\repos\Project1\Fitness Classification\Different_Images.h(1,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Equal_His.cpp
+D:\repos\Project1\Fitness Classification\Equal_His.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Gaussian_Filter.cpp
+D:\repos\Project1\Fitness Classification\Gaussian_Filter.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  MeanFilter.cpp
+D:\repos\Project1\Fitness Classification\MeanFilter.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  MedianFilter.cpp
+D:\repos\Project1\Fitness Classification\MedianFilter.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Remove_Drawing.cpp
+D:\repos\Project1\Fitness Classification\Remove_Drawing.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Rotated_Img_Processing.cpp
+D:\repos\Project1\Fitness Classification\Rotated_img_Processing.h(1,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Segmentation.cpp
+D:\repos\Project1\Fitness Classification\Segmentation.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Serial_Detection.cpp
+D:\repos\Project1\Fitness Classification\Serial_Detection.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Serial_Different_Processing.cpp
+D:\repos\Project1\Fitness Classification\Serial_Different_Processing.h(1,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  SIFT.cpp
+D:\repos\Project1\Fitness Classification\SIFT.h(1,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Sobel_Filter.cpp
+D:\repos\Project1\Fitness Classification\Sobel_Filter.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Source.cpp
+D:\repos\Project1\Fitness Classification\Source.cpp(1,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Torn_Money.cpp
+D:\repos\Project1\Fitness Classification\Torn_Money.h(1,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Two_Same_Images.cpp
+D:\repos\Project1\Fitness Classification\Two_Same_Images.h(1,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  USM.cpp
+D:\repos\Project1\Fitness Classification\USM.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  YUV_space.cpp
+D:\repos\Project1\Fitness Classification\YUV_space.h(2,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Generating Code...
